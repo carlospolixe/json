@@ -1,4 +1,5 @@
-[
+{
+  "results":[
   {
     "_id": "5da7007b8810fd8675a4d171",
     "index": 0,
@@ -314,4 +315,4 @@
     "greeting": "Hello, Maude Trujillo! You have 7 unread messages.",
     "favoriteFruit": "banana"
   }
-]
+]}
